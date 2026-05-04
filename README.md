@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PLP_Trabalho_01
-=======
 ***
 
 ```markdown
