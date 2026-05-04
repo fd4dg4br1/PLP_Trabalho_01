@@ -116,4 +116,4 @@ Execute o simulador interativo:
 ```
 > **⚠️ IMPORTANTE PARA AVALIAÇÃO:** No paradigma lógico do Prolog, toda entrada de dados no terminal **deve terminar com um ponto final**. Exemplo: Se quiser escolher a opção 1 do menu, digite `1.` e aperte Enter.
 ```
->>>>>>> refs/remotes/origin/main
+
