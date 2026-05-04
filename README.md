@@ -49,7 +49,7 @@ java App
 
 ---
 
-### 2. C (Paradigma Imperativo - Versão Humana)
+### 2. C (Paradigma Imperativo - Versão IA e Humana)
 **Pré-requisito:** Ter o compilador GCC instalado.
 
 Navegue até a pasta do C[cite: 3]:
@@ -62,9 +62,19 @@ Compile o código gerando o executável:
 gcc pilha.c -o pilha
 ```
 
+
+```bash
+gcc pilha_humano.c -o pilha_humano
+```
+
 Execute o programa:
 ```bash
 ./pilha
+```
+
+
+```bash
+./pilha_humano
 ```
 
 ---
